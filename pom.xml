@@ -14,10 +14,10 @@
     </properties>
 
     <modules>
-        <module>..\CustAppService</module>        
+        <module>..\CustService</module>        
         <module>..\CustomComponents</module>
         <module>..\CustAppClient</module>                        
-        <module>..\CustServiceWeb</module>                
+        <module>..\CustRemoteService</module>                
         <module>..\CustWeb</module>        
         <module>..\CustLoginModule</module>                
         <module>..\CustManager</module>                
