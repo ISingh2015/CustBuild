@@ -1,3 +1,5 @@
-Maven project for Customer Service (online Order Processing System) Web application assembling all the required jars and dependencies. It complies all the necessary modules for building the online Customer Service, SWING CLIENT and the Customer Service WEB application.
+# CRM Build
 
+Contains the required modules to build the CRM Webservice. 
 
+Maven project includes [CRM Parent POM](https://github.com/ISingh2015/CustParent) and modules which need to be built before the webservice components are assembled into the CRM Web or the CRM Swing client.
